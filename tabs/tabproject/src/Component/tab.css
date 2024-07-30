@@ -1,0 +1,12 @@
+.content_tab{
+    width: 16rem;
+  height: 20rem;
+  border: 1px solid black;
+  border-top: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.active{
+    border-bottom: none !important;
+}
